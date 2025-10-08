@@ -15,5 +15,7 @@
 - <b>Lathing</b>
 
 
-<h2>Status: This is an ongoing competition and this will be continuously updated</h2>
-- <b>Pending Competition Acceptance</b> 
+<h2>This is an ongoing competition and this will be continuously updated</h2>
+
+- <b>Last Updated 10/08/2025</b> 
+- <b>Status: Pending Competition Acceptance</b> 
