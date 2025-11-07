@@ -23,7 +23,7 @@
 <h2>Proposed Design Updates</h2>
 
 <p align="center">
-Option 1: Changing the motor orientation to remove the 90° gearbox<br/>
+Option 1: Changing the motor orientation to remove the 90° gearbox and fix trencher angle<br/>
 <img src="https://i.postimg.cc/fydCLzk5/image.png" height=80% width=80%/>
 <br />  
 <img src="https://i.postimg.cc/cH00TCGh/image.png" height=80% width=80%/> 
