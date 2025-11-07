@@ -21,8 +21,18 @@
 - <b>Status: Pending competition acceptance due to government shutdown</b> 
 
 <h2>Proposed Design Updates</h2>
+
 <p align="center">
-Replacing the 90° gearboxes<br/>
+Option 1: Changing the motor orientation to remove the 90° gearbox<br/>
+<img src="https://i.postimg.cc/fydCLzk5/image.png" height=80% width=80%/>
+<br />  
+<img src="https://i.postimg.cc/cH00TCGh/image.png" height=80% width=80%/> 
+<br />  
+<br /> 
+
+
+<p align="center">
+Option 2: Replacing the 90° gearboxes<br/>
 <img src="https://i.postimg.cc/htfsY10W/image.png" height=80% width=80%/>
 <br />
 <img src="https://i.postimg.cc/902V8M3G/image.png" height=80% width=80%/>
