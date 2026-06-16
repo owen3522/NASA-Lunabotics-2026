@@ -15,6 +15,10 @@
 - <b>Mill</b>
 - <b>Lathe</b>
 
+<h2>Design Decisions</h2>
+
+- <b>wheels trencher etc </b> 
+- <b>rocker arms </b> 
 
 <h2>Competition Results</h2>
 
