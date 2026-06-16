@@ -41,3 +41,10 @@ Option 2: Replacing the 90° gearboxes<br/>
 <img src="https://i.postimg.cc/zfTcdkqt/image.png" height=80% width=80%/>
 <br />
 <br />
+
+<h2>Design Updates</h2>
+<p align="center">
+Final Assembly<br/>
+<img src="https://i.postimg.cc/nhZQkbRZ/image.png" height=80% width=80%/>
+<br />
+
