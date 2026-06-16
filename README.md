@@ -9,16 +9,17 @@
 
 <h2>Software and Skills</h2>
 
-- <b>SOLIDWORKS</b> 
+- <b>SOLIDWORKS</b>
+- <b>Ansys Mechanical</b>
 - <b>Machining</b>
-- <b>Milling</b>
-- <b>Lathing</b>
+- <b>Mill</b>
+- <b>Lathe</b>
 
 
-<h2>This is an ongoing competition and this will be continuously updated</h2>
+<h2>Competition Results</h2>
 
-- <b>Last Updated: 11/19/2025</b> 
-- <b>Status: 1 of 50 Selected Teams Nationwide </b> 
+- <b>15th overall out of 50+ teams selected by NASA </b> 
+- <b>4th Place in Autonomous Operations </b> 
 
 <h2>Proposed Design Updates</h2>
 
