@@ -46,6 +46,11 @@ Option 2: Replacing the 90° gearboxes<br/>
 <br />
 <br />
 
+<p align="center">
+Ansys Mechanical Static Structural to minimize maximum equivalent stress in trencher bucket<br/>
+<img src="https://i.postimg.cc/tThKFMBP/stress.png" height=80% width=80%/>
+<br />
+
 <h2>Design Updates</h2>
 
 <p align="center">
