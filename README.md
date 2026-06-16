@@ -43,8 +43,26 @@ Option 2: Replacing the 90° gearboxes<br/>
 <br />
 
 <h2>Design Updates</h2>
+
+<p align="center">
+Chassis and Drivetrain<br/>
+<img src="" height=80% width=80%/>
+<br />
+
+<p align="center">
+Trencher Excavation System<br/>
+<img src="https://i.postimg.cc/T1DkvLDG/image.png" height=80% width=80%/>
+<br />
+
+<p align="center">
+Trencher Integration and Actuation System<br/>
+<img src="https://i.postimg.cc/Gh6Xh2m4/image.png" height=80% width=80%/>
+<br />
+
 <p align="center">
 Final Assembly<br/>
 <img src="https://i.postimg.cc/nhZQkbRZ/image.png" height=80% width=80%/>
 <br />
+
+
 
