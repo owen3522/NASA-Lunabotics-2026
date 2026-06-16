@@ -17,8 +17,14 @@
 
 <h2>Design Decisions</h2>
 
-- <b>wheels trencher etc </b> 
-- <b>rocker arms </b> 
+- <b>Based on the prior years experimental data we decided to keep: </b> 
+- <b>Chassis Frame </b>
+- <b>Wheels </b>
+- <b>Rocker Arm Suspension </b>
+- <b>New this year: </b>
+- <b>Fixed Angle Trencher and Linear Actuator System</b>
+- <b>Reduced Weight Drivetrain</b>
+- <b>Electronics and Autonomy Overhaul</b>
 
 <h2>Competition Results</h2>
 
