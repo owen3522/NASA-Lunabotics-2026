@@ -79,6 +79,12 @@ Final Assembly<br/>
 <br />
 
 <p align="center">
+Machining, Integration, and Assembly<br/>
+<img src="https://i.postimg.cc/R0zhmjJ0/74737.jpg" height=80% width=80%/>
+<br />
+
+
+<p align="center">
 Competition Run<br/>
 <img src="https://i.postimg.cc/15cYMF0J/IMG-0842-(1).jpg" height=80% width=80%/>
 <br />
